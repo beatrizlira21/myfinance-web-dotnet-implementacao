@@ -45,7 +45,7 @@ Pré-requisitos:
 
 1º passo
 - Clone o repospitório do projeto
-comando: git clone https://github.com/seu-usuario/gestor-financeiro.git
+comando: git clone https://github.com/beatrizlira21/myfinance-web-dotnet-implementacao.git
 
 2º passo
 - Crie o banco utilizando os scripts da pasta BDSQLSERVER.
